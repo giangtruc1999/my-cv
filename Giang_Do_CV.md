@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠 Skills
+## ⚡ Skills
 
 - **Languages:** Java, C#, Go, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Spring Boot, ReactJS, Next.js
